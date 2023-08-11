@@ -13,4 +13,4 @@
 🏡 Brazilian, living in SampaCity - SP
 
 ### Github Stats
-currently looking for a plugin who shows all correctly numbers, not only public
+[👋](https://github-readme-streak-stats.herokuapp.com/?user=moregola&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
