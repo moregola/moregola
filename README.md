@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About me
 🔭 I’m currently working with *C# .Net*, *Java *, *TS *, *React and Vue* <br>
-🌱 I’m currently studying *fullstack software engineering* <br>
+🌱 I’m currently update *React* <br>
 💻 Sênior Backend Developer <br>
 🏡 Brazilian, living in SampaCity - SP
 <br><br>
