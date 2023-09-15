@@ -3,10 +3,11 @@
 <br>
 
 ## 🙋‍♂️ About me
-🔭 I’m currently working with *C# .Net*, *Java *, *TS *, *React and Vue* <br>
-🌱 I’m currently update *React* <br>
+🔭 I’m currently working with *C# .Net*, *Java *, *TS *, *JS frameworks as React and Vue* <br>
+🔭 Knowledge in : AWS and AZURE Cloud Services, <br> * SQL(Sql Server, MySql, Postgre), NoSql (MongoDb) <br> 
 💻 Sênior Backend Developer <br>
-🏡 Brazilian, living in SampaCity - SP
+🔭 <br> Graduated as a Technologist in Systems Analysis and Development at Fatec College <br> 
+🏡 Brazilian, living in SampaCity - SP but open to move out
 <br><br>
 
 ## 📱 Contact and Social Media
