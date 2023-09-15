@@ -39,9 +39,8 @@
 <br><br>
 
 ## 💻 Workspace Spec
-[![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6650XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
-[![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
-[![SO](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
+[![CPU](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
+[![SO](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#)
 <br><br>
 
 ## ❤ Views and Followers
