@@ -17,7 +17,7 @@
 
 ## 🔧 Languages and tools
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=moregola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/moregola)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=moregolasolutions&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/moregolasolutions)
+
 
 ![VisualStudio](https://img.icons8.com/fluency/48/visual-studio.png)
 ![VSCode](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)
