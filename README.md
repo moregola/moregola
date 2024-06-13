@@ -12,11 +12,11 @@
 
 ## 📱 Contact and Social Media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/thiago-m-2b592616/)
-[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Microsoft&link=mailto:thiago.moregola@outlook.com)](mailto:mailto:thiago.moregola@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Microsoft&link=mailto:moregola@gmail.com)](mailto:mailto:moregola@gmail.com)
 <br><br>
 
 ## 🔧 Languages and tools
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=moregola&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/moregola)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=moregola&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0a0c10)](https://github.com/moregola)
 
 
 ![VisualStudio](https://img.icons8.com/fluency/48/visual-studio.png)
