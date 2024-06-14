@@ -11,8 +11,8 @@
 <br><br>
 
 ## 📱 Contact and Social Media
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/thiago-m-2b592616/)
-[![Outlook](https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=Microsoft&link=mailto:moregola@gmail.com)](mailto:mailto:moregola@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/thiago-moregola-2b592616)
+[![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=Microsoft&link=mailto:moregola@gmail.com)](mailto:mailto:moregola@gmail.com)
 <br><br>
 
 ## 🔧 Languages and tools
