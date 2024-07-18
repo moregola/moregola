@@ -3,7 +3,7 @@
 <br>
 
 ## 🙋‍♂️ About me
-🔭 I’m currently working with  C# .Net*, Java , TS , JS frameworks as React and Vue* <br>
+🔭 I’m currently working with C# and TypeScript <br>
 
 💻 Sênior Backend Developer <br>
 🔭 Graduated as a Technologist in Systems Analysis and Development at Fatec College <br> 
